@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Tracked Out 0.4.0: updates now install from inside the app.",
-  "pub_date": "2026-11-27T21:54:48Z",
+  "version": "0.4.1",
+  "notes": "Tracked Out 0.4.1: stems keep their full level (no more quiet, muffled stems), and New split starts empty.",
+  "pub_date": "2026-11-27T23:14:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3Q2am95Uk5wQUg2UjZ6R1B3THU1bGo3TGFOdmdNUHlWeFdaQzFFZzdpSkZDOUlOcXJiZVpEVFVuLzdlTFlYSTBtOGtvUlQ2YTBKT3U1SjZGZ3Q3R2g0TXVpU2Nra3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE2Mzc2CWZpbGU6VHJhY2tlZCBPdXRfMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCnRBbEtZOWo1dmF2OGpwamRrbTZFTkJDTUtrZGJUd2dCcFNKOUhhNCtlVVNad0R4cjhjcTQ4NDlpZU9CaTE4RTBEV0JPRlFYNWxQUFYxMmMwcGZkMkJ3PT0K",
-      "url": "https://raw.githubusercontent.com/MTKRiley/tracked-out-releases/main/app/0.4.0/TrackedOut_0.4.0_update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3Q2am95Uk5wQUdUOVVjb01YalNPbC9RdTNrNnZnUmErU2NBNWtlUTEyRW1tUXJrWDJHR3hwTFVaOG1sUmlWcDNqTFE2aFNaWUt6bGVZVy9vaUhMS3NobDVWeUNKWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODIxMjc0CWZpbGU6VHJhY2tlZCBPdXRfMC40LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4xCnhJaTNUcWFkUDM5bmIwUmhUcmprUHdkaVZXekZycVB2dU14YkVWNmtGUVBaRFVDcWYvODFvdWVtbjgxR2xFWTNqNGxFWkhqTWZsa09Na2c4ZlZVdUNnPT0K",
+      "url": "https://raw.githubusercontent.com/MTKRiley/tracked-out-releases/main/app/0.4.1/TrackedOut_0.4.1_update.exe"
     }
   }
 }
