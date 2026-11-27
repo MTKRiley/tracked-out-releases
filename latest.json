@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
-  "notes": "Tracked Out 0.4.1",
+  "notes": "Tracked Out 0.4.1: stems keep their full level (no more quiet, muffled stems), and New split starts empty.",
   "pub_date": "2026-11-27T23:14:47Z",
   "platforms": {
     "windows-x86_64": {
