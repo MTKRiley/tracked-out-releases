@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Tracked Out 0.4.1: stems keep their full level (no more quiet, muffled stems), and New split starts empty.",
-  "pub_date": "2026-11-27T23:14:47Z",
+  "version": "0.4.2",
+  "notes": "Tracked Out 0.4.2: search YouTube right in the app, clean up old stems, a High quality mode for NVIDIA graphics cards (falls back to the CPU if the card has trouble), and a crash report you can send if something goes wrong.",
+  "pub_date": "2026-11-28T01:00:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3Q2am95Uk5wQUdUOVVjb01YalNPbC9RdTNrNnZnUmErU2NBNWtlUTEyRW1tUXJrWDJHR3hwTFVaOG1sUmlWcDNqTFE2aFNaWUt6bGVZVy9vaUhMS3NobDVWeUNKWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODIxMjc0CWZpbGU6VHJhY2tlZCBPdXRfMC40LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4xCnhJaTNUcWFkUDM5bmIwUmhUcmprUHdkaVZXekZycVB2dU14YkVWNmtGUVBaRFVDcWYvODFvdWVtbjgxR2xFWTNqNGxFWkhqTWZsa09Na2c4ZlZVdUNnPT0K",
-      "url": "https://raw.githubusercontent.com/MTKRiley/tracked-out-releases/main/app/0.4.1/TrackedOut_0.4.1_update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3Q2am95Uk5wQUJhYVhxVHYzS1p4Q3dpeHVYblBtaGR5a3RFK3EyaVhnQVlpTWhOM0paS3RISHJqNFlsTTJlcVJocTJwTzluVlNZUlNFc3VJRW5VUUJYazFjOWl6bVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODI3NjI0CWZpbGU6VHJhY2tlZCBPdXRfMC40LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4yCmsxdDF4Qy8ya0dyWnFzN0YxcTBMYTBGcTRCRUhzc3JOMnpDR3d3L1JzR0I4MXdHZk9lY285aExTSXJicG9XWVlZU0FpcG9UeFpqU3Z4WmNoR2l3SEJ3PT0K",
+      "url": "https://raw.githubusercontent.com/MTKRiley/tracked-out-releases/main/app/0.4.2/TrackedOut_0.4.2_update.exe"
     }
   }
 }
