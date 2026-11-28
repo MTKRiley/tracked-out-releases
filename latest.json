@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "Tracked Out 0.4.2: search YouTube right in the app, clean up old stems, a High quality mode for NVIDIA graphics cards (falls back to the CPU if the card has trouble), and a crash report you can send if something goes wrong.",
-  "pub_date": "2026-11-28T01:00:51Z",
+  "version": "0.4.3",
+  "notes": "Tracked Out 0.4.3",
+  "pub_date": "2026-11-28T04:41:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3Q2am95Uk5wQUJhYVhxVHYzS1p4Q3dpeHVYblBtaGR5a3RFK3EyaVhnQVlpTWhOM0paS3RISHJqNFlsTTJlcVJocTJwTzluVlNZUlNFc3VJRW5VUUJYazFjOWl6bVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODI3NjI0CWZpbGU6VHJhY2tlZCBPdXRfMC40LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4yCmsxdDF4Qy8ya0dyWnFzN0YxcTBMYTBGcTRCRUhzc3JOMnpDR3d3L1JzR0I4MXdHZk9lY285aExTSXJicG9XWVlZU0FpcG9UeFpqU3Z4WmNoR2l3SEJ3PT0K",
-      "url": "https://raw.githubusercontent.com/MTKRiley/tracked-out-releases/main/app/0.4.2/TrackedOut_0.4.2_update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3Q2am95Uk5wQUpsQzdsTS9PSTZOMHk0TGdaTGdaeFY1NGR4bHdZcEcrQzFJcmZwa0RCUEIxZ2N4QnY5Z29NbXZNTGVEdXcrWThhTExKbEVEbklteWpkUmJHTTJ0cmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQwODYwCWZpbGU6VHJhY2tlZCBPdXRfMC40LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4zCkp2Sjd2Nnd5cXlMMmYwRWhkekVRTlFjSjhncG82bGZaSG95bWVpK3ZRaUp1WXBIZWluU3hkVHVzS2tscER1OHNIcC9MOFZEV1NPdThtOEUvN242ZENRPT0K",
+      "url": "https://raw.githubusercontent.com/MTKRiley/tracked-out-releases/main/app/0.4.3/TrackedOut_0.4.3_update.exe"
     }
   }
 }
