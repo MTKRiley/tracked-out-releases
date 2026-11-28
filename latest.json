@@ -1,6 +1,6 @@
 {
   "version": "0.4.3",
-  "notes": "Tracked Out 0.4.3",
+  "notes": "Tracked Out 0.4.3: a new Super high quality (online) option that splits songs with MVSep's stronger models, using your own free MVSep account. It works on any PC, and if MVSep can't take a song the app splits it on your PC instead and says why.",
   "pub_date": "2026-11-28T04:41:26Z",
   "platforms": {
     "windows-x86_64": {
