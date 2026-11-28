@@ -1,6 +1,6 @@
 {
   "version": "0.4.2",
-  "notes": "Tracked Out 0.4.2",
+  "notes": "Tracked Out 0.4.2: search YouTube right in the app, clean up old stems, a High quality mode for NVIDIA graphics cards (falls back to the CPU if the card has trouble), and a crash report you can send if something goes wrong.",
   "pub_date": "2026-11-28T01:00:51Z",
   "platforms": {
     "windows-x86_64": {
